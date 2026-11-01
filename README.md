@@ -6,6 +6,10 @@ Nexora Technologies is a simulated enterprise network designed and implemented u
 
 The project demonstrates practical networking skills through VLAN segmentation, inter-VLAN routing, network services, traffic filtering and network security configurations.
 
+## Network Topology
+
+![Nexora Enterprise Network Topology](topology/network-topology.png)
+
 ## Network Features
 
 - VLAN segmentation for different departments
