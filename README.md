@@ -58,8 +58,10 @@ The project demonstrates practical networking skills through VLAN segmentation, 
 
 ## Project Files
 
-- `nexora-network.pkt` – Cisco Packet Tracer project file
-- `topology/network-topology.png` – Network topology diagram
+- `nexora-network.pkt` – Complete Cisco Packet Tracer project
+- `topology/` – Network topology diagram
+- `configurations/` – Router and switch configurations
+- `documentation/` – IP addressing, security implementation and connectivity testing documentation
 
 ## Project Purpose
 
